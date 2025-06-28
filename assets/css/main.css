@@ -483,7 +483,7 @@ label {
 }
 
 .block1 {
-    background-image: url(/saite/assets/images/fon.webp);
+    background-image: url(saite/assets/images/fon.webp);
     padding-top: 13rem;
     padding-left: 68rem;
     height: 63rem;
@@ -653,7 +653,7 @@ label {
     margin-left: 4rem;
     width: 25.2rem;
     height: 36.3rem;
-    background-image: url(/saite/assets/images/bl4_1.webp);
+    background-image: url(assets/images/bl4_1.webp);
     background-repeat: no-repeat;
     position: relative
 }
@@ -901,7 +901,7 @@ footer {
 }
 
 .preview {
-    background-image: url(/saite/assets/images/preview.webp);
+    background-image: url(saite/assets/images/preview.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 120rem;
